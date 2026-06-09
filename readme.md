@@ -122,8 +122,7 @@ Developed an ESP32-hosted dashboard for seamless wireless monitoring and real-ti
 Add dashboard screenshot here:
 
 ```markdown
-<img width="1170" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/a7d99f68-c2d0-45f6-932d-308dd53e19d0">
-)
+![Dashboard Screenshot](Screenshot 2026-06-09 103050.png)
 ```
 
 ### Demo Video
